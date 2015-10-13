@@ -1,0 +1,1 @@
+ssh -i "nodejs_server.pem" ec2-user@54.69.96.80
